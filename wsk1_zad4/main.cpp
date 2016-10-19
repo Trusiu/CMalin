@@ -11,7 +11,7 @@ int function1(int *firEl , int lastEl)
         if(maximum > *firEl) maximum = *firEl;
         cout<<maximum<<endl;
     }
-
+   NANANANANANANANANAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 }
 
 int main()
